@@ -1,3 +1,4 @@
   {
-  "comp_idle": {"category": "hostile","sounds": [{"name": "comp_idle","stream": false}]}
+  "comp_back": {"category": "hostile","sounds": [{"name": "comp_idle","stream": false}]},
+  "comp_lied": {"category": "hostile","sounds": [{"name": "comp_lied","stream": false}]}
  }
